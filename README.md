@@ -11,7 +11,6 @@ Currently, I bridge the gap between infrastructure management and data engineeri
 * 🏢 **Current Roles:** Infrastructure Application Manager & Data Engineer
 * 🎯 **Focus Areas:** Data Analytics, Artificial Intelligence, and scalable backend architectures.
 * 🧠 **Currently learning:** Advanced Machine Learning concepts and optimizing large-scale data pipelines.
-* ⚡ **Fun fact:** I love finding the most efficient way to automate the boring stuff.
 
 ---
 
